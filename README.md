@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Brasic</h1>
 <h3 align="center">an economics Ph.D. Student at The University of Arizona</h3>
 
-- 🌱 I’m currently learning **Econometrics, Causal Inference, and Machine Learning**
+- 🌱 My research interests lie at the intersection of **Econometrics, Causal Inference, and Machine Learning**
 
 - 📫 How to reach me **wbrasic@arizona.edu**
 
