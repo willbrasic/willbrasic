@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Brasic,</h1>
+<h1 align="center">Hi! 👋 I'm William Brasic,</h1>
 <h3 align="center">an economics Ph.D. Student at The University of Arizona</h3>
 
 - 🌱 My research interests lie at the intersection of **Econometrics, Causal Inference, and Machine Learning**
