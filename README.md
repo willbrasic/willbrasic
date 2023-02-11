@@ -3,9 +3,9 @@
 
 - 🌱 My research interests lie at the intersection of **Econometrics, Causal Inference, and Machine Learning**
 
-- 📫 How to reach me **wbrasic@arizona.edu**
+- 📫 How to reach me: **wbrasic@arizona.edu**
 
-- ⚡ Fun fact **Bear Down**
+- ⚡ Fun fact: **Bear Down**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
