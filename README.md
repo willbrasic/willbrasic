@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm William Brasic,</h1>
 <h3 align="center">an Economics Ph.D. Student at The University of Arizona</h3>
 
-- 🌱 My research interests are in **Econometrics, Machine Learning, and Pricing Algorithms**.
+- 🌱 My research interests are in **Econometrics, Machine Learning, and empirical industrial organization**.
 
 - 📫 How to reach me: **wbrasic@arizona.edu**
 
