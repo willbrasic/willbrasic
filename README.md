@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm William Brasic,</h1>
 <h3 align="center">a Ph.D. Economics Candidate at The University of Arizona</h3>
 
-- 🌱 My research interests are in **Machine Learning**, **Econometrics**, and **Empirical Industrial Organization**.
+- 🌱 My research interests are in the applications of **reinforcement learning** to economic models using **game theory** and **industrial organization**, with a focus on **algorithmic pricing** dynamics. 
 
 - 📫 How to reach me: **wbrasic@arizona.edu**
 
