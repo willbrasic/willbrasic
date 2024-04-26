@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
-- 🌱 My research interests are in the applications of **reinforcement learning** to economic models using **industrial organization** and **game theory**, with a focus on **algorithmic pricing** dynamics and its effect on competition. 
+- 🌱 Exploring the fascinating dynamics of **algorithmic pricing** and its effect on **competition** using **reinforcement learning**, **industrial organization**, and **game theory**.
 
 - 📫 How to reach me **wbrasic@arizona.edu**
 
