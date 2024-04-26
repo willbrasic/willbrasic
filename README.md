@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Brasic</h1>
-<h3 align="center">a Ph.D. Economics Candidate at The University of Arizona</h3>
+<h3 align="center">a 3rd Year Doctoral Student in Economics at The University of Arizona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
