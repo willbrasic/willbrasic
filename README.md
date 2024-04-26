@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
-- 🌱 Exploring the fascinating dynamics of **algorithmic pricing** and its effect on **competition** using **reinforcement learning**, **industrial organization**, and **game theory**.
+- 🌱 Exploring the fascinating dynamics of **algorithmic pricing** and its effect on **competition** using **reinforcement learning**, **industrial organization**, and **game theory**
 
 - 📫 How to reach me **wbrasic@arizona.edu**
 
