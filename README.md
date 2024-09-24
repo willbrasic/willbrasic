@@ -5,7 +5,7 @@
 
 - 🌱 Exploring the fascinating dynamics of **algorithmic pricing** and its effect on **competition** using **reinforcement learning**, **industrial organization**, and **game theory**
 
-- 📫 How to reach me **wbrasic@arizona.edu**
+- 📫 You can reach me at **wbrasic@arizona.edu**
 
 - ⚡ Fun fact **Bear Down**
 
