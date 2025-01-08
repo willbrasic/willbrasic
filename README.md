@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
-- 🌱 Exploring the fascinating dynamics of **algorithmic pricing** and its effect on **competition** using **reinforcement learning**, **industrial organization**, and **game theory**
+- 🌱 My current research investigates the effects of **pricing algorithms** on **competition**. Broadly, I am interested in understanding the **implications of emerging technologies**, such as **machine learning**, on market dynamics as well as **antitrust and competition policy**.
 
 - 📫 You can reach me at **wbrasic@arizona.edu**
 
