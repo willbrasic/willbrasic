@@ -6,9 +6,8 @@
 - 🌱 My current research investigates the effects of **pricing algorithms** on **competition**. Broadly, I am interested in understanding the **implications of emerging technologies**, such as **machine learning**, on market dynamics as well as **antitrust and competition policy**.
 
 - 📫 You can reach me at **wbrasic@arizona.edu** and my website is located at [williambrasic.com](https://williambrasic.com).
-.
 
-- ⚡ Fun fact **Bear Down**
+- ⚡ Fun fact: **Bear Down**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
