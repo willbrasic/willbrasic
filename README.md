@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
-- 🌱 My research investigates the effects of **algorithms** on **competition**. Broadly, I am interested in understanding the **implications of emerging technologies**, such as **machine learning**, on market dynamics as well as **antitrust and competition policy**.
+- 🌱 My research investigates the effects of **artifical intelligence** on **competition**. Broadly, I am interested in understanding the **implications of emerging technologies**, such as **machine learning**, on market dynamics as well as **antitrust and competition policy**.
 
 - 📫 You can reach me at **wbrasic@arizona.edu** and my website is located at [williambrasic.com](https://williambrasic.com).
 
