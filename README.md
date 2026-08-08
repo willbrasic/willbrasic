@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
-- 🌱 My research uses **industrial organization** and **applied microeconomics** to questions in **health economics**, **artificial intelligence**, and **antitrust and competition policy**. 
+- My research uses **industrial organization** and **applied microeconomics** to questions in **health economics**, **artificial intelligence**, and **antitrust and competition policy**. 
 
-- 📫 You can reach me at **wbrasic@arizona.edu**, and my website is located at [williambrasic.com](https://williambrasic.com).
-
-- ⚡ Fun fact: **Bear Down**
+- You can reach me at **wbrasic@arizona.edu**, and my website is located at [williambrasic.com](https://williambrasic.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
