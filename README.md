@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Will Brasic</h1>
-<h3 align="center">a Fifth-Year Doctoral Candidate in Economics at The University of Arizona</h3>
+<h3 align="center">a Doctoral Candidate in Economics at The University of Arizona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willbrasic&label=Profile%20views&color=0e75b6&style=flat" alt="willbrasic" /> </p>
 
-- My research uses **industrial organization** and **applied microeconomics** to questions in **health economics**, **artificial intelligence**, and **antitrust and competition policy**. 
+- I specialize in **industrial organization** and **applied microeconomics**, drawing on **structural modeling**, **causal inference**, and **machine learning** to study how firms and consumers behave in imperfectly competitive markets. 
 
 - You can reach me at **wbrasic@arizona.edu**, and my website is located at [williambrasic.com](https://williambrasic.com).
 
